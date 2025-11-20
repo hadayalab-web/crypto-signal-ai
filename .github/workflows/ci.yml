@@ -1,0 +1,58 @@
+# yaml-language-server: $schema-disable
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - demo
+      - main
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          path: .
+
+      - name: Install Doppler CLI
+        uses: dopplerhq/cli-action@v3
+
+      - name: Run tests on Demo
+        if: github.ref == 'refs/heads/demo'
+        env:
+          DOPPLER_TOKEN: ${{ secrets.DOPPLER_TOKEN_DEMO }}
+        run: |
+          doppler run --project hadaya-auto-trade --config demo -- npm test
+
+      - name: Run tests on Production
+        if: github.ref == 'refs/heads/main'
+        env:
+          DOPPLER_TOKEN: ${{ secrets.DOPPLER_TOKEN_PRD }}
+        run: |
+          doppler run --project hadaya-auto-trade --config prod -- npm test
+
+  deploy:
+    needs: build-and-test
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          path: .
+
+      - name: Install Doppler CLI
+        uses: dopplerhq/cli-action@v3
+
+      - name: Deploy to SimAI
+        env:
+          DOPPLER_TOKEN: ${{ secrets.DOPPLER_TOKEN_PRD }}
+          SIMAI_COPILOT_KEY: ${{ secrets.SIMAI_COPILOT_KEY }}
+        run: |
+          doppler run --project hadaya-auto-trade --config prod -- \
+            simai deploy demo-trading-v1 \
+              --env SOSOVALUE_KEY,NANSENAIAI_KEY,SANTIMENT_KEY,MESSARI_KEY

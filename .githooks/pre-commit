@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# conflict markers
+if git diff --cached | grep -E "^(<<<<<<<|=======|>>>>>>>)" -q; then
+  echo "ERROR: Conflict markers detected in staged changes."
+  exit 1
+fi
+
+# common secrets
+if git diff --cached | grep -E "AKIA[0-9A-Z]{16}|ASIA[0-9A-Z]{16}|-----BEGIN (RSA|EC|OPENSSH) PRIVATE KEY-----" -q; then
+  echo "ERROR: Potential secret detected in staged changes."
+  exit 1
+fi
+
+# docs-only branch guard
+branch="$(git rev-parse --abbrev-ref HEAD)"
+if [[ "$branch" =~ ^(docs/|feat/docs) ]]; then
+  non_docs=$(git diff --cached --name-only | grep -Ev '^(docs/|\.github/|README\.md$|CHANGELOG\.md$)')
+  if [ -n "$non_docs" ]; then
+    echo "ERROR: docs-only branch must only change docs/ or .github/ (violations below):"
+    echo "$non_docs"
+    exit 1
+  fi
+fi
+
+exit 0

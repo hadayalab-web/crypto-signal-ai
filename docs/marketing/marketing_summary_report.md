@@ -1,0 +1,1708 @@
+﻿# Crypto Signal AI - マーケティング施策サマリー
+**生成日時:** 2025-11-07 11:36:54
+
+## プロジェクト概要
+- **分析対象フォルダ1:** C:\Users\USER\crypto-signal-ai
+- **分析対象フォルダ2:** C:\Users\USER\crypto-signal-ai_remote
+- **総ドキュメント数:** 1051 件
+- **マーケティング関連ファイル:** 558 件
+
+## 最適化されたフォルダ構造
+C:\Users\USER\crypto-signal-ai_analysis\marketing_optimized/
+├── strategy/ # 戦略・計画ドキュメント
+├── campaigns/ # キャンペーン・施策
+├── content/ # コンテンツマーケティング素材
+├── community/ # コミュニティ運営資料
+├── analytics/ # 分析・レポート
+├── assets/ # クリエイティブ素材
+├── automation/ # 自動化ワークフロー
+├── pricing/ # 価格戦略・収益化
+├── launch/ # ローンチ計画
+└── roadmap/ # ロードマップ
+
+
+## 検出されたマーケティングファイル一覧
+- **CRITICAL_SSOT.md** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai\CRITICAL_SSOT.md
+  - マッチキーワード: strategy, 戦略, roadmap, revenue, 収益, GTM, go-to-market
+ - **MASTER_INDEX.md** (キーワード数: 10)
+  - パス: C:\Users\USER\crypto-signal-ai\MASTER_INDEX.md
+  - マッチキーワード: marketing, マーケティング, launch, strategy, plan, roadmap, signal, revenue, GTM, go-to-market
+ - **PROJECT_STATE_OF_TRUTH.md** (キーワード数: 8)
+  - パス: C:\Users\USER\crypto-signal-ai\PROJECT_STATE_OF_TRUTH.md
+  - マッチキーワード: ローンチ, telegram, twitter, signal, シグナル, user, ユーザー, 価格
+ - **QUICKSTART.md** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai\QUICKSTART.md
+  - マッチキーワード: launch, ローンチ, discord, signal, 価格, MVP, whop
+ - **README.md** (キーワード数: 9)
+  - パス: C:\Users\USER\crypto-signal-ai\README.md
+  - マッチキーワード: email, target, ロードマップ, telegram, signal, シグナル, user, 価格, MVP
+ - **BUSINESS_ROADMAP.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\business\BUSINESS_ROADMAP.md
+  - マッチキーワード: roadmap
+ - **REVENUE_PROJECTIONS.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\business\financials\REVENUE_PROJECTIONS.md
+  - マッチキーワード: revenue
+ - **API_KEY_ACQUISITION.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\API_KEY_ACQUISITION.md
+  - マッチキーワード: acquisition, twitter, signal
+ - **CRITICAL_SSOT.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\CRITICAL_SSOT.md
+  - マッチキーワード: content, acquisition, telegram, signal
+ - **DEPLOYMENT.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\DEPLOYMENT.md
+  - マッチキーワード: telegram, signal, user
+ - **DEVELOPMENT_WORKFLOW_PERPLEXITY_INTEGRATION.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\DEVELOPMENT_WORKFLOW_PERPLEXITY_INTEGRATION.md
+  - マッチキーワード: signal, user, ユーザー, MVP
+ - **ENGINEERING_DOR_DOD.md** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\ENGINEERING_DOR_DOD.md
+  - マッチキーワード: メール, ローンチ, discord, signal, シグナル, MVP, whop
+ - **IMPLEMENTATION_GUIDE_PRICING.md** (キーワード数: 12)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\IMPLEMENTATION_GUIDE_PRICING.md
+  - マッチキーワード: content, メール, コンバージョン, リテンション, telegram, discord, コミュニティ, signal, シグナル, ユーザー, 価格, whop
+ - **IMPLEMENTATION_LOG.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\IMPLEMENTATION_LOG.md
+  - マッチキーワード: twitter, signal
+ - **INCIDENT_RUNBOOK.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\INCIDENT_RUNBOOK.md
+  - マッチキーワード: email, telegram
+ - **INTEGRATED_MARKETING_REVENUE_NOV3.md** (キーワード数: 15)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\INTEGRATED_MARKETING_REVENUE_NOV3.md
+  - マッチキーワード: マーケティング, キャンペーン, SNS, email, launch, ローンチ, ファネル, リテンション, 戦略, plan, ロードマップ, signal, 収益, MVP, whop
+ - **MARKETING_SCHEME_NOV3.md** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\MARKETING_SCHEME_NOV3.md
+  - マッチキーワード: マーケティング, ローンチ, ファネル, 計画, signal
+ - **MVP_KPI_TRACKING.md** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\MVP_KPI_TRACKING.md
+  - マッチキーワード: acquisition, retention, シグナル, revenue, MVP
+ - **MVP_PHASE_GATES.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\MVP_PHASE_GATES.md
+  - マッチキーワード: シグナル, MVP
+ - **PRICING_BREAKDOWN.md** (キーワード数: 6)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\PRICING_BREAKDOWN.md
+  - マッチキーワード: 顧客, 戦略, signal, シグナル, 価格, whop
+ - **PRICING_BREAKDOWN_FINAL.md** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\PRICING_BREAKDOWN_FINAL.md
+  - マッチキーワード: 戦略, signal, シグナル, 価格, whop
+ - **PROJECT_STATUS.md** (キーワード数: 9)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\PROJECT_STATUS.md
+  - マッチキーワード: launch, ローンチ, strategy, 計画, roadmap, twitter, signal, revenue, whop
+ - **PROVIDER_PHASES.md** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\PROVIDER_PHASES.md
+  - マッチキーワード: telegram, twitter, signal, 価格, MVP
+ - **PROVIDER_PHASES_FINAL.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\PROVIDER_PHASES_FINAL.md
+  - マッチキーワード: telegram, twitter, signal, MVP
+ - **PROVIDER_STRATEGY.md** (キーワード数: 6)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\PROVIDER_STRATEGY.md
+  - マッチキーワード: strategy, discord, signal, シグナル, 価格, whop
+ - **README.md** (キーワード数: 10)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\README.md
+  - マッチキーワード: launch, ローンチ, audience, strategy, plan, roadmap, signal, pricing, monetization, MVP
+ - **README_MASTER.md** (キーワード数: 11)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\README_MASTER.md
+  - マッチキーワード: launch, retention, strategy, 戦略, signal, シグナル, user, pricing, 価格, 収益, MVP
+ - **REVENUE_SIMULATION_PDCA.md** (キーワード数: 30)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\REVENUE_SIMULATION_PDCA.md
+  - マッチキーワード: marketing, campaign, キャンペーン, SNS, email, メール, launch, target, ターゲット, messaging, conversion, acquisition, retention, リテンション, engagement, strategy, plan, 計画, discord, twitter, community, signal, user, ユーザー, pricing, revenue, 収益, MVP, whop, landing page
+ - **STRATEGY_COMPLETE_FINAL_NOV3.md** (キーワード数: 24)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\STRATEGY_COMPLETE_FINAL_NOV3.md
+  - マッチキーワード: marketing, campaign, SNS, launch, target, customer, retention, engagement, growth, strategy, 戦略, roadmap, telegram, discord, twitter, community, signal, シグナル, user, pricing, revenue, MVP, whop, landing page
+ - **STRATEGY_COMPLETE_FINAL_V1.1.md** (キーワード数: 19)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\STRATEGY_COMPLETE_FINAL_V1.1.md
+  - マッチキーワード: メール, launch, target, retention, リテンション, strategy, 戦略, telegram, twitter, コミュニティ, signal, シグナル, user, ユーザー, pricing, 価格, revenue, MVP, whop
+ - **STRATEGY_COMPLETE_NOV3.md** (キーワード数: 15)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\STRATEGY_COMPLETE_NOV3.md
+  - マッチキーワード: launch, target, customer, strategy, 戦略, telegram, twitter, signal, シグナル, user, pricing, 価格, revenue, MVP, whop
+ - **TIMELINE_DETAILED.md** (キーワード数: 19)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\TIMELINE_DETAILED.md
+  - マッチキーワード: SNS, メール, launch, ローンチ, メッセージング, 獲得, リテンション, telegram, discord, twitter, コミュニティ, signal, シグナル, user, ユーザー, 価格, MVP, whop, landing page
+ - **TIMELINE_DETAILED_FINAL.md** (キーワード数: 13)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\TIMELINE_DETAILED_FINAL.md
+  - マッチキーワード: email, launch, 獲得, retention, discord, twitter, signal, シグナル, user, ユーザー, revenue, MVP, whop
+ - **REVENUE_PROJECTIONS.md** (キーワード数: 12)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\business\financials\REVENUE_PROJECTIONS.md
+  - マッチキーワード: マーケティング, 獲得, strategy, 戦略, twitter, コミュニティ, ユーザー, 収益, GTM, go-to-market, whop, ランディングページ
+ - **DECISION_LOG.md** (キーワード数: 11)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\decisions\DECISION_LOG.md
+  - マッチキーワード: ローンチ, strategy, 戦略, telegram, discord, コミュニティ, signal, ユーザー, go-to-market, MVP, whop
+ - **DESIGN_v1102.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\design\DESIGN_v1102.md
+  - マッチキーワード: コンテンツ, signal
+ - **GO_TO_MARKET_STRATEGY.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\go-to-market\GO_TO_MARKET_STRATEGY.md
+  - マッチキーワード: strategy, go-to-market
+ - **LAUNCH_CHECKLIST.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\go-to-market\LAUNCH_CHECKLIST.md
+  - マッチキーワード: launch
+ - **PLATFORM_ROADMAP.md** (キーワード数: 18)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\go-to-market\PLATFORM_ROADMAP.md
+  - マッチキーワード: マーケティング, 広告, email, ローンチ, ターゲット, strategy, 戦略, 計画, ロードマップ, telegram, discord, twitter, コミュニティ, シグナル, ユーザー, revenue, MVP, whop
+ - **PLATFORM_SELECTION_MATRIX.md** (キーワード数: 12)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\go-to-market\PLATFORM_SELECTION_MATRIX.md
+  - マッチキーワード: ローンチ, strategy, 戦略, 計画, telegram, discord, コミュニティ, signal, シグナル, ユーザー, MVP, whop
+ - **sim-ai-copilot-spec.md** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai\docs\specifications\sim-ai-copilot-spec.md
+  - マッチキーワード: engagement, 計画, telegram, twitter, signal, シグナル, 価格
+ - **MARKETING_STRATEGY.md** (キーワード数: 22)
+  - パス: C:\Users\USER\crypto-signal-ai\marketing\MARKETING_STRATEGY.md
+  - マッチキーワード: マーケティング, ローンチ, ターゲット, conversion, 獲得, engagement, strategy, 戦略, ロードマップ, telegram, discord, twitter, community, コミュニティ, シグナル, ユーザー, 価格, revenue, 収益, go-to-market, MVP, whop
+ - **marketing_summary_consolidated.md** (キーワード数: 59)
+  - パス: C:\Users\USER\crypto-signal-ai\marketing\00_overview\marketing_summary_consolidated.md
+  - マッチキーワード: marketing, マーケティング, campaign, キャンペーン, promotion, advertising, 広告, SEO, content, コンテンツ, social media, SNS, email, メール, launch, ローンチ, target, ターゲット, audience, customer, brand, messaging, メッセージング, conversion, コンバージョン, ファネル, acquisition, 獲得, retention, リテンション, engagement, growth, strategy, 戦略, plan, 計画, roadmap, ロードマップ, telegram, discord, twitter, community, コミュニティ, signal, シグナル, subscriber, user, ユーザー, pricing, 価格, revenue, 収益, monetization, GTM, go-to-market, MVP, whop, landing page, ランディングページ
+ - **marketing_hits.md** (キーワード数: 59)
+  - パス: C:\Users\USER\crypto-signal-ai\marketing\10_extracted\marketing_hits.md
+  - マッチキーワード: marketing, マーケティング, campaign, キャンペーン, promotion, advertising, 広告, SEO, content, コンテンツ, social media, SNS, email, メール, launch, ローンチ, target, ターゲット, audience, customer, brand, messaging, メッセージング, conversion, コンバージョン, ファネル, acquisition, 獲得, retention, リテンション, engagement, growth, strategy, 戦略, plan, 計画, roadmap, ロードマップ, telegram, discord, twitter, community, コミュニティ, signal, シグナル, subscriber, user, ユーザー, pricing, 価格, revenue, 収益, monetization, GTM, go-to-market, MVP, whop, landing page, ランディングページ
+ - **marketing_hits.md** (キーワード数: 59)
+  - パス: C:\Users\USER\crypto-signal-ai\marketing\10_strategy\marketing_hits.md
+  - マッチキーワード: marketing, マーケティング, campaign, キャンペーン, promotion, advertising, 広告, SEO, content, コンテンツ, social media, SNS, email, メール, launch, ローンチ, target, ターゲット, audience, customer, brand, messaging, メッセージング, conversion, コンバージョン, ファネル, acquisition, 獲得, retention, リテンション, engagement, growth, strategy, 戦略, plan, 計画, roadmap, ロードマップ, telegram, discord, twitter, community, コミュニティ, signal, シグナル, subscriber, user, ユーザー, pricing, 価格, revenue, 収益, monetization, GTM, go-to-market, MVP, whop, landing page, ランディングページ
+ - **marketing_summary_consolidated.md** (キーワード数: 59)
+  - パス: C:\Users\USER\crypto-signal-ai\marketing\20_summary\marketing_summary_consolidated.md
+  - マッチキーワード: marketing, マーケティング, campaign, キャンペーン, promotion, advertising, 広告, SEO, content, コンテンツ, social media, SNS, email, メール, launch, ローンチ, target, ターゲット, audience, customer, brand, messaging, メッセージング, conversion, コンバージョン, ファネル, acquisition, 獲得, retention, リテンション, engagement, growth, strategy, 戦略, plan, 計画, roadmap, ロードマップ, telegram, discord, twitter, community, コミュニティ, signal, シグナル, subscriber, user, ユーザー, pricing, 価格, revenue, 収益, monetization, GTM, go-to-market, MVP, whop, landing page, ランディングページ
+ - **GO_TO_MARKET_STRATEGY.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\marketing\30_assets\_src\GO_TO_MARKET_STRATEGY.md
+  - マッチキーワード: strategy, go-to-market
+ - **IMPLEMENTATION_GUIDE_PRICING.md** (キーワード数: 12)
+  - パス: C:\Users\USER\crypto-signal-ai\marketing\30_assets\_src\IMPLEMENTATION_GUIDE_PRICING.md
+  - マッチキーワード: content, メール, コンバージョン, リテンション, telegram, discord, コミュニティ, signal, シグナル, ユーザー, 価格, whop
+ - **INTEGRATED_MARKETING_REVENUE_NOV3.md** (キーワード数: 15)
+  - パス: C:\Users\USER\crypto-signal-ai\marketing\30_assets\_src\INTEGRATED_MARKETING_REVENUE_NOV3.md
+  - マッチキーワード: マーケティング, キャンペーン, SNS, email, launch, ローンチ, ファネル, リテンション, 戦略, plan, ロードマップ, signal, 収益, MVP, whop
+ - **LAUNCH_CHECKLIST.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\marketing\30_assets\_src\LAUNCH_CHECKLIST.md
+  - マッチキーワード: launch
+ - **marketing_hits.md** (キーワード数: 59)
+  - パス: C:\Users\USER\crypto-signal-ai\marketing\30_assets\_src\marketing_hits.md
+  - マッチキーワード: marketing, マーケティング, campaign, キャンペーン, promotion, advertising, 広告, SEO, content, コンテンツ, social media, SNS, email, メール, launch, ローンチ, target, ターゲット, audience, customer, brand, messaging, メッセージング, conversion, コンバージョン, ファネル, acquisition, 獲得, retention, リテンション, engagement, growth, strategy, 戦略, plan, 計画, roadmap, ロードマップ, telegram, discord, twitter, community, コミュニティ, signal, シグナル, subscriber, user, ユーザー, pricing, 価格, revenue, 収益, monetization, GTM, go-to-market, MVP, whop, landing page, ランディングページ
+ - **MARKETING_SCHEME_NOV3.md** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai\marketing\30_assets\_src\MARKETING_SCHEME_NOV3.md
+  - マッチキーワード: マーケティング, ローンチ, ファネル, 計画, signal
+ - **MARKETING_STRATEGY.md** (キーワード数: 22)
+  - パス: C:\Users\USER\crypto-signal-ai\marketing\30_assets\_src\MARKETING_STRATEGY.md
+  - マッチキーワード: マーケティング, ローンチ, ターゲット, conversion, 獲得, engagement, strategy, 戦略, ロードマップ, telegram, discord, twitter, community, コミュニティ, シグナル, ユーザー, 価格, revenue, 収益, go-to-market, MVP, whop
+ - **marketing_summary_consolidated.md** (キーワード数: 59)
+  - パス: C:\Users\USER\crypto-signal-ai\marketing\30_assets\_src\marketing_summary_consolidated.md
+  - マッチキーワード: marketing, マーケティング, campaign, キャンペーン, promotion, advertising, 広告, SEO, content, コンテンツ, social media, SNS, email, メール, launch, ローンチ, target, ターゲット, audience, customer, brand, messaging, メッセージング, conversion, コンバージョン, ファネル, acquisition, 獲得, retention, リテンション, engagement, growth, strategy, 戦略, plan, 計画, roadmap, ロードマップ, telegram, discord, twitter, community, コミュニティ, signal, シグナル, subscriber, user, ユーザー, pricing, 価格, revenue, 収益, monetization, GTM, go-to-market, MVP, whop, landing page, ランディングページ
+ - **PRICING_BREAKDOWN.md** (キーワード数: 6)
+  - パス: C:\Users\USER\crypto-signal-ai\marketing\30_assets\_src\PRICING_BREAKDOWN.md
+  - マッチキーワード: 顧客, 戦略, signal, シグナル, 価格, whop
+ - **PRICING_BREAKDOWN_FINAL.md** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai\marketing\30_assets\_src\PRICING_BREAKDOWN_FINAL.md
+  - マッチキーワード: 戦略, signal, シグナル, 価格, whop
+ - **PRICING_STRATEGY_MAPPING.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\marketing\30_assets\_src\PRICING_STRATEGY_MAPPING.md
+  - マッチキーワード: messaging, strategy, pricing
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@cspotcode\source-map-support\README.md
+  - マッチキーワード: launch
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@jridgewell\resolve-uri\README.md
+  - マッチキーワード: plan
+ - **README.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@pkgjs\parseargs\README.md
+  - マッチキーワード: content, target, signal, user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@tsconfig\node10\README.md
+  - マッチキーワード: target
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@tsconfig\node12\README.md
+  - マッチキーワード: target
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@tsconfig\node14\README.md
+  - マッチキーワード: target
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@tsconfig\node16\README.md
+  - マッチキーワード: target
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\accepts\README.md
+  - マッチキーワード: content
+ - **CHANGELOG.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\acorn\CHANGELOG.md
+  - マッチキーワード: content, target
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\acorn\README.md
+  - マッチキーワード: content, community
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\acorn-walk\README.md
+  - マッチキーワード: target, community
+ - **README.md** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\ajv\README.md
+  - マッチキーワード: campaign, content, email, community, user
+ - **readme.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\ansi-regex\readme.md
+  - マッチキーワード: content, brand, user
+ - **readme.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\ansi-styles\readme.md
+  - マッチキーワード: campaign, conversion
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\arg\README.md
+  - マッチキーワード: user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\asn1\README.md
+  - マッチキーワード: plan
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\assert-plus\README.md
+  - マッチキーワード: email
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\asynckit\README.md
+  - マッチキーワード: target
+ - **README.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\aws4\README.md
+  - マッチキーワード: content, target, user
+ - **CHANGELOG.md** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\axios\CHANGELOG.md
+  - マッチキーワード: content, target, conversion, signal, user
+ - **README.md** (キーワード数: 9)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\axios\README.md
+  - マッチキーワード: campaign, content, social media, target, plan, community, signal, user, pricing
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\base64-js\README.md
+  - マッチキーワード: campaign
+ - **CONTRIBUTING.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\bcrypt-pbkdf\CONTRIBUTING.md
+  - マッチキーワード: user
+ - **CHANGELOG.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\bignumber.js\CHANGELOG.md
+  - マッチキーワード: content, user
+ - **README.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\bignumber.js\README.md
+  - マッチキーワード: content, conversion, user
+ - **HISTORY.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\body-parser\HISTORY.md
+  - マッチキーワード: content, user
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\body-parser\README.md
+  - マッチキーワード: content, user
+ - **History.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\bytes\History.md
+  - マッチキーワード: conversion
+ - **Readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\bytes\Readme.md
+  - マッチキーワード: conversion
+ - **CHANGELOG.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\color-convert\CHANGELOG.md
+  - マッチキーワード: conversion
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\color-convert\README.md
+  - マッチキーワード: conversion
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\content-disposition\README.md
+  - マッチキーワード: content, plan
+ - **HISTORY.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\content-type\HISTORY.md
+  - マッチキーワード: content
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\content-type\README.md
+  - マッチキーワード: content
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\cookie\README.md
+  - マッチキーワード: content, user
+ - **SECURITY.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\cookie\SECURITY.md
+  - マッチキーワード: email, community
+ - **History.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\cookie-signature\History.md
+  - マッチキーワード: content
+ - **README.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\cors\README.md
+  - マッチキーワード: content, twitter, user
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\cross-spawn\README.md
+  - マッチキーワード: target, user
+ - **README.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\dashdash\README.md
+  - マッチキーワード: content, target, twitter, user
+ - **README.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\debug\README.md
+  - マッチキーワード: content, target, user
+ - **Readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\depd\Readme.md
+  - マッチキーワード: user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\diff\README.md
+  - マッチキーワード: content
+ - **release-notes.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\diff\release-notes.md
+  - マッチキーワード: content, target, user
+ - **CHANGELOG.md** (キーワード数: 6)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\dotenv\CHANGELOG.md
+  - マッチキーワード: campaign, content, email, target, community, user
+ - **README-es.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\dotenv\README-es.md
+  - マッチキーワード: content, plan, user
+ - **README.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\dotenv\README.md
+  - マッチキーワード: content, target, user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\emoji-regex\README.md
+  - マッチキーワード: twitter
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\encodeurl\README.md
+  - マッチキーワード: content, user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\es-define-property\README.md
+  - マッチキーワード: email
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\es-errors\README.md
+  - マッチキーワード: email
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\es-object-atoms\README.md
+  - マッチキーワード: email
+ - **History.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\express\History.md
+  - マッチキーワード: promotion, content, conversion, user
+ - **Readme.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\express\Readme.md
+  - マッチキーワード: content, brand, community
+ - **CHANGELOG.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\extend\CHANGELOG.md
+  - マッチキーワード: target
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\extend\README.md
+  - マッチキーワード: target
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\extsprintf\README.md
+  - マッチキーワード: conversion
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\fast-deep-equal\README.md
+  - マッチキーワード: campaign, user
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\fast-json-stable-stringify\README.md
+  - マッチキーワード: campaign, user
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\fetch-blob\README.md
+  - マッチキーワード: content, plan
+ - **HISTORY.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\finalhandler\HISTORY.md
+  - マッチキーワード: content
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\finalhandler\README.md
+  - マッチキーワード: content
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\follow-redirects\README.md
+  - マッチキーワード: user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\foreground-child\README.md
+  - マッチキーワード: signal
+ - **CHANGELOG.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\form-data\CHANGELOG.md
+  - マッチキーワード: content, target, user
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\form-data\README.md
+  - マッチキーワード: content, user
+ - **HISTORY.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\form-data\node_modules\mime-db\HISTORY.md
+  - マッチキーワード: target, community
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\form-data\node_modules\mime-db\README.md
+  - マッチキーワード: community
+ - **HISTORY.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\form-data\node_modules\mime-types\HISTORY.md
+  - マッチキーワード: target, community
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\form-data\node_modules\mime-types\README.md
+  - マッチキーワード: content
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\formdata-polyfill\README.md
+  - マッチキーワード: content, user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\forwarded\README.md
+  - マッチキーワード: user
+ - **SECURITY.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\function-bind\.github\SECURITY.md
+  - マッチキーワード: email
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\gaxios\README.md
+  - マッチキーワード: content, signal
+ - **README.md** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\gcp-metadata\README.md
+  - マッチキーワード: content, email, launch, target, user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\get-intrinsic\README.md
+  - マッチキーワード: email
+ - **README.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\glob\README.md
+  - マッチキーワード: content, plan, signal, user
+ - **README.md** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\google-auth-library\README.md
+  - マッチキーワード: content, email, launch, target, audience, customer, user
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\google-logging-utils\README.md
+  - マッチキーワード: funnel, user
+ - **README.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\googleapis\README.md
+  - マッチキーワード: content, email, user
+ - **README.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\googleapis-common\README.md
+  - マッチキーワード: content, launch, target, user
+ - **README.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\gtoken\README.md
+  - マッチキーワード: content, email, user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\har-schema\README.md
+  - マッチキーワード: twitter
+ - **CHANGELOG.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\has-symbols\CHANGELOG.md
+  - マッチキーワード: target
+ - **HISTORY.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\http-errors\HISTORY.md
+  - マッチキーワード: messaging
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\http-errors\README.md
+  - マッチキーワード: signal, user
+ - **HISTORY.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\http-errors\node_modules\statuses\HISTORY.md
+  - マッチキーワード: messaging
+ - **CHANGES.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\http-signature\CHANGES.md
+  - マッチキーワード: target, conversion
+ - **http_signing.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\http-signature\http_signing.md
+  - マッチキーワード: content, email, target, acquisition
+ - **Changelog.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\iconv-lite\Changelog.md
+  - マッチキーワード: conversion
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\iconv-lite\README.md
+  - マッチキーワード: email, conversion
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\inherits\README.md
+  - マッチキーワード: plan
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\ipaddr.js\README.md
+  - マッチキーワード: conversion
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\isexe\README.md
+  - マッチキーワード: user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\isstream\README.md
+  - マッチキーワード: twitter
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\json-bigint\README.md
+  - マッチキーワード: user
+ - **CONTRIBUTING.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\jsprim\CONTRIBUTING.md
+  - マッチキーワード: target, user
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\jsprim\README.md
+  - マッチキーワード: content, user
+ - **CHANGELOG.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\jws\CHANGELOG.md
+  - マッチキーワード: content, user
+ - **README.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\make-error\README.md
+  - マッチキーワード: content, customer, community
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\math-intrinsics\README.md
+  - マッチキーワード: email
+ - **HISTORY.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\media-typer\HISTORY.md
+  - マッチキーワード: content
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\media-typer\README.md
+  - マッチキーワード: content
+ - **CHANGELOG.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\mime\CHANGELOG.md
+  - マッチキーワード: content, community
+ - **HISTORY.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\mime-db\HISTORY.md
+  - マッチキーワード: target, community
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\mime-db\README.md
+  - マッチキーワード: content, community
+ - **HISTORY.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\mime-types\HISTORY.md
+  - マッチキーワード: target, community
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\mime-types\README.md
+  - マッチキーワード: content
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\minipass\README.md
+  - マッチキーワード: signal, user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\negotiator\README.md
+  - マッチキーワード: content
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\node-domexception\README.md
+  - マッチキーワード: messaging
+ - **README.md** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\node-fetch\README.md
+  - マッチキーワード: SEO, content, target, discord, twitter, signal, user
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\object-assign\readme.md
+  - マッチキーワード: target
+ - **CHANGELOG.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\object-inspect\CHANGELOG.md
+  - マッチキーワード: target
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\on-finished\README.md
+  - マッチキーワード: target
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\package-json-from-dist\README.md
+  - マッチキーワード: target
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\parseurl\README.md
+  - マッチキーワード: user
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\path-key\readme.md
+  - マッチキーワード: campaign
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\path-scurry\README.md
+  - マッチキーワード: target
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\path-scurry\node_modules\lru-cache\README.md
+  - マッチキーワード: signal, user
+ - **Readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\path-to-regexp\Readme.md
+  - マッチキーワード: user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\proxy-from-env\README.md
+  - マッチキーワード: user
+ - **README.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\psl\README.md
+  - マッチキーワード: content, community, user
+ - **README.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\punycode\README.md
+  - マッチキーワード: email, conversion, twitter, user
+ - **CHANGELOG.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\qs\CHANGELOG.md
+  - マッチキーワード: marketing, target
+ - **README.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\qs\README.md
+  - マッチキーワード: campaign, content, email, user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\range-parser\README.md
+  - マッチキーワード: signal
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\raw-body\README.md
+  - マッチキーワード: content
+ - **SECURITY.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\raw-body\SECURITY.md
+  - マッチキーワード: email, community
+ - **Changelog.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\raw-body\node_modules\iconv-lite\Changelog.md
+  - マッチキーワード: conversion
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\raw-body\node_modules\iconv-lite\README.md
+  - マッチキーワード: email, conversion
+ - **CHANGELOG.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\request\CHANGELOG.md
+  - マッチキーワード: content, target, twitter, user
+ - **README.md** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\request\README.md
+  - マッチキーワード: SEO, content, launch, twitter, user
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\request\node_modules\form-data\README.md
+  - マッチキーワード: content, user
+ - **HISTORY.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\request\node_modules\mime-db\HISTORY.md
+  - マッチキーワード: target, community
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\request\node_modules\mime-db\README.md
+  - マッチキーワード: community
+ - **HISTORY.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\request\node_modules\mime-types\HISTORY.md
+  - マッチキーワード: target, community
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\request\node_modules\mime-types\README.md
+  - マッチキーワード: content
+ - **CHANGELOG.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\request\node_modules\qs\CHANGELOG.md
+  - マッチキーワード: target
+ - **README.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\request\node_modules\qs\README.md
+  - マッチキーワード: campaign, email, user
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\rimraf\README.md
+  - マッチキーワード: strategy, signal
+ - **HISTORY.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\router\HISTORY.md
+  - マッチキーワード: user
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\router\README.md
+  - マッチキーワード: content, user
+ - **README.md** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\safe-buffer\README.md
+  - マッチキーワード: content, retention, plan, signal, user
+ - **Porting-Buffer.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\safer-buffer\Porting-Buffer.md
+  - マッチキーワード: content, user
+ - **Readme.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\safer-buffer\Readme.md
+  - マッチキーワード: launch, user
+ - **HISTORY.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\send\HISTORY.md
+  - マッチキーワード: content
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\send\README.md
+  - マッチキーワード: content
+ - **HISTORY.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\serve-static\HISTORY.md
+  - マッチキーワード: content
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\serve-static\README.md
+  - マッチキーワード: content
+ - **CHANGELOG.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\side-channel\CHANGELOG.md
+  - マッチキーワード: content, target
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\side-channel-list\README.md
+  - マッチキーワード: strategy
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\side-channel-map\README.md
+  - マッチキーワード: strategy
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\side-channel-weakmap\README.md
+  - マッチキーワード: strategy
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\signal-exit\README.md
+  - マッチキーワード: signal
+ - **README.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\sshpk\README.md
+  - マッチキーワード: email, target, user
+ - **HISTORY.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\statuses\HISTORY.md
+  - マッチキーワード: messaging
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\string-width\readme.md
+  - マッチキーワード: campaign
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\string-width-cjs\readme.md
+  - マッチキーワード: campaign
+ - **readme.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\string-width-cjs\node_modules\ansi-regex\readme.md
+  - マッチキーワード: campaign, content, brand
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\string-width-cjs\node_modules\emoji-regex\README.md
+  - マッチキーワード: twitter
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\string-width-cjs\node_modules\strip-ansi\readme.md
+  - マッチキーワード: campaign
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\strip-ansi-cjs\readme.md
+  - マッチキーワード: campaign
+ - **readme.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\strip-ansi-cjs\node_modules\ansi-regex\readme.md
+  - マッチキーワード: campaign, content, brand
+ - **README.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\tough-cookie\README.md
+  - マッチキーワード: plan, community, user
+ - **README.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\ts-node\README.md
+  - マッチキーワード: content, launch, target, user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\ts-node\dist-raw\README.md
+  - マッチキーワード: user
+ - **AUTHORS.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\tweetnacl\AUTHORS.md
+  - マッチキーワード: user
+ - **CHANGELOG.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\tweetnacl\CHANGELOG.md
+  - マッチキーワード: conversion
+ - **README.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\tweetnacl\README.md
+  - マッチキーワード: content, target, user
+ - **README.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\twit\README.md
+  - マッチキーワード: content, plan, twitter, user
+ - **HISTORY.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\type-is\HISTORY.md
+  - マッチキーワード: content, target
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\type-is\README.md
+  - マッチキーワード: content
+ - **README.md** (キーワード数: 6)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\typescript\README.md
+  - マッチキーワード: plan, roadmap, discord, twitter, community, user
+ - **SECURITY.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\typescript\SECURITY.md
+  - マッチキーワード: email
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\undici-types\README.md
+  - マッチキーワード: user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\uri-js\README.md
+  - マッチキーワード: user
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\url-template\README.md
+  - マッチキーワード: email, user
+ - **CHANGELOG.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\v8-compile-cache-lib\CHANGELOG.md
+  - マッチキーワード: user
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\vary\README.md
+  - マッチキーワード: content, user
+ - **CONTRIBUTING.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\verror\CONTRIBUTING.md
+  - マッチキーワード: target, user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\verror\README.md
+  - マッチキーワード: user
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\web-streams-polyfill\README.md
+  - マッチキーワード: target, signal
+ - **CHANGELOG.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\which\CHANGELOG.md
+  - マッチキーワード: user
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\wrap-ansi\readme.md
+  - マッチキーワード: campaign
+ - **readme.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\wrap-ansi\node_modules\ansi-styles\readme.md
+  - マッチキーワード: campaign, conversion
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\wrap-ansi-cjs\readme.md
+  - マッチキーワード: campaign
+ - **readme.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\wrap-ansi-cjs\node_modules\ansi-regex\readme.md
+  - マッチキーワード: campaign, content, brand
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\wrap-ansi-cjs\node_modules\emoji-regex\README.md
+  - マッチキーワード: twitter
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\wrap-ansi-cjs\node_modules\string-width\readme.md
+  - マッチキーワード: campaign
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\wrap-ansi-cjs\node_modules\strip-ansi\readme.md
+  - マッチキーワード: campaign
+ - **project-structure.txt** (キーワード数: 9)
+  - パス: C:\Users\USER\crypto-signal-ai\project-structure.txt
+  - マッチキーワード: marketing, promotion, content, conversion, telegram, twitter, signal, user, revenue
+ - **LICENSE.txt** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\typescript\LICENSE.txt
+  - マッチキーワード: content, conversion
+ - **ThirdPartyNoticeText.txt** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\typescript\ThirdPartyNoticeText.txt
+  - マッチキーワード: advertising, content, target, community, user
+ - **package-lock.json** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai\package-lock.json
+  - マッチキーワード: SEO, content, signal, GTM, MVP
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\package.json
+  - マッチキーワード: signal
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\tsconfig.json
+  - マッチキーワード: target
+ - **.package-lock.json** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\.package-lock.json
+  - マッチキーワード: SEO, content, signal, GTM, MVP
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@tsconfig\node10\tsconfig.json
+  - マッチキーワード: target
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@tsconfig\node12\tsconfig.json
+  - マッチキーワード: target
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@tsconfig\node14\tsconfig.json
+  - マッチキーワード: target
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@tsconfig\node16\tsconfig.json
+  - マッチキーワード: target
+ - **package.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@types\body-parser\package.json
+  - マッチキーワード: content, user
+ - **package.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@types\connect\package.json
+  - マッチキーワード: content, user
+ - **package.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@types\cors\package.json
+  - マッチキーワード: content, user
+ - **package.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@types\express\package.json
+  - マッチキーワード: content, user
+ - **package.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@types\express-serve-static-core\package.json
+  - マッチキーワード: content, user
+ - **package.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@types\http-errors\package.json
+  - マッチキーワード: content, user
+ - **package.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@types\mime\package.json
+  - マッチキーワード: content, user
+ - **package.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@types\node\package.json
+  - マッチキーワード: content, user
+ - **package.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@types\qs\package.json
+  - マッチキーワード: content, user
+ - **package.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@types\range-parser\package.json
+  - マッチキーワード: content, user
+ - **package.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@types\send\package.json
+  - マッチキーワード: content, user
+ - **package.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@types\serve-static\package.json
+  - マッチキーワード: content, user
+ - **package.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\@types\serve-static\node_modules\@types\send\package.json
+  - マッチキーワード: content, user
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\accepts\package.json
+  - マッチキーワード: content
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\acorn\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\acorn-walk\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\ajv\package.json
+  - マッチキーワード: launch, target
+ - **data.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\ajv\lib\refs\data.json
+  - マッチキーワード: content, user
+ - **json-schema-draft-07.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\ajv\lib\refs\json-schema-draft-07.json
+  - マッチキーワード: content
+ - **json-schema-secure.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\ajv\lib\refs\json-schema-secure.json
+  - マッチキーワード: content, user
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\ansi-regex\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\ansi-styles\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\axios\package.json
+  - マッチキーワード: launch
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\balanced-match\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\bignumber.js\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\bluebird\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\body-parser\package.json
+  - マッチキーワード: content
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\brace-expansion\package.json
+  - マッチキーワード: email
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\call-bind-apply-helpers\tsconfig.json
+  - マッチキーワード: target
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\call-bound\tsconfig.json
+  - マッチキーワード: target
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\color-convert\package.json
+  - マッチキーワード: conversion
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\content-disposition\package.json
+  - マッチキーワード: content
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\content-type\package.json
+  - マッチキーワード: content
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\create-require\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\debug\package.json
+  - マッチキーワード: launch
+ - **package.json** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\diff\package.json
+  - マッチキーワード: SEO, email, launch
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\dunder-proto\tsconfig.json
+  - マッチキーワード: target
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\ecc-jsbn\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\ee-first\package.json
+  - マッチキーワード: email, twitter
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\es-define-property\tsconfig.json
+  - マッチキーワード: target
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\es-errors\tsconfig.json
+  - マッチキーワード: target
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\es-object-atoms\tsconfig.json
+  - マッチキーワード: target
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\es-set-tostringtag\tsconfig.json
+  - マッチキーワード: target
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\express\package.json
+  - マッチキーワード: content
+ - **.jscs.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\extend\.jscs.json
+  - マッチキーワード: conversion
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\fast-deep-equal\package.json
+  - マッチキーワード: target
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\fast-json-stable-stringify\package.json
+  - マッチキーワード: email
+ - **test.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\fast-json-stable-stringify\benchmark\test.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\foreground-child\package.json
+  - マッチキーワード: signal
+ - **db.json** (キーワード数: 11)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\form-data\node_modules\mime-db\db.json
+  - マッチキーワード: content, SNS, email, launch, target, plan, community, signal, subscriber, user, GTM
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\form-data\node_modules\mime-types\package.json
+  - マッチキーワード: content
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\function-bind\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\gaxios\package.json
+  - マッチキーワード: launch
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\get-proto\tsconfig.json
+  - マッチキーワード: target
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\glob\package.json
+  - マッチキーワード: content
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\google-auth-library\package.json
+  - マッチキーワード: launch
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\googleapis-common\package.json
+  - マッチキーワード: launch
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\gopd\tsconfig.json
+  - マッチキーワード: target
+ - **content.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\har-schema\lib\content.json
+  - マッチキーワード: content
+ - **pageTimings.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\har-schema\lib\pageTimings.json
+  - マッチキーワード: content
+ - **postData.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\har-schema\lib\postData.json
+  - マッチキーワード: content
+ - **response.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\har-schema\lib\response.json
+  - マッチキーワード: content
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\has-symbols\package.json
+  - マッチキーワード: email
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\has-symbols\tsconfig.json
+  - マッチキーワード: target
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\has-tostringtag\package.json
+  - マッチキーワード: email
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\has-tostringtag\tsconfig.json
+  - マッチキーワード: target
+ - **codes.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\http-errors\node_modules\statuses\codes.json
+  - マッチキーワード: content
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\is-fullwidth-code-point\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\json-schema\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\make-error\package.json
+  - マッチキーワード: community
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\mime\package.json
+  - マッチキーワード: email
+ - **types.json** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\mime\types.json
+  - マッチキーワード: email, launch, plan, GTM
+ - **db.json** (キーワード数: 11)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\mime-db\db.json
+  - マッチキーワード: content, SNS, email, launch, target, plan, community, signal, subscriber, user, GTM
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\mime-types\package.json
+  - マッチキーワード: content
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\ms\package.json
+  - マッチキーワード: conversion
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\negotiator\package.json
+  - マッチキーワード: content
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\object-assign\package.json
+  - マッチキーワード: email
+ - **package-support.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\object-inspect\package-support.json
+  - マッチキーワード: target
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\object-inspect\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\path-key\package.json
+  - マッチキーワード: email
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\psl\types\tsconfig.json
+  - マッチキーワード: target
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\qs\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\request\package.json
+  - マッチキーワード: launch
+ - **db.json** (キーワード数: 11)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\request\node_modules\mime-db\db.json
+  - マッチキーワード: content, SNS, email, launch, target, plan, community, signal, subscriber, user, GTM
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\request\node_modules\mime-types\package.json
+  - マッチキーワード: content
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\request\node_modules\qs\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\safe-buffer\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\safer-buffer\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\shebang-command\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\shebang-regex\package.json
+  - マッチキーワード: email
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\side-channel\tsconfig.json
+  - マッチキーワード: target
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\side-channel-list\tsconfig.json
+  - マッチキーワード: target
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\side-channel-map\tsconfig.json
+  - マッチキーワード: target
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\side-channel-weakmap\tsconfig.json
+  - マッチキーワード: target
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\signal-exit\package.json
+  - マッチキーワード: signal
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\sshpk\package.json
+  - マッチキーワード: email
+ - **codes.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\statuses\codes.json
+  - マッチキーワード: content
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\string-width\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\string-width-cjs\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\string-width-cjs\node_modules\ansi-regex\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\string-width-cjs\node_modules\strip-ansi\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\strip-ansi\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\strip-ansi-cjs\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\strip-ansi-cjs\node_modules\ansi-regex\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\tough-cookie\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\ts-node\package.json
+  - マッチキーワード: email
+ - **tsconfig.schema.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\ts-node\tsconfig.schema.json
+  - マッチキーワード: target
+ - **tsconfig.schemastore-schema.json** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\ts-node\tsconfig.schemastore-schema.json
+  - マッチキーワード: target, acquisition, strategy
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\twit\package.json
+  - マッチキーワード: twitter
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\type-is\package.json
+  - マッチキーワード: content
+ - **typesMap.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\typescript\lib\typesMap.json
+  - マッチキーワード: email, signal
+ - **diagnosticMessages.generated.json** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\typescript\lib\cs\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, user
+ - **diagnosticMessages.generated.json** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\typescript\lib\de\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, user
+ - **diagnosticMessages.generated.json** (キーワード数: 8)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\typescript\lib\es\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, plan, user
+ - **diagnosticMessages.generated.json** (キーワード数: 8)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\typescript\lib\fr\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, signal, user
+ - **diagnosticMessages.generated.json** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\typescript\lib\it\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, user
+ - **diagnosticMessages.generated.json** (キーワード数: 11)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\typescript\lib\ja\diagnosticMessages.generated.json
+  - マッチキーワード: content, コンテンツ, target, ターゲット, messaging, conversion, acquisition, strategy, 戦略, user, ユーザー
+ - **diagnosticMessages.generated.json** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\typescript\lib\ko\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, user
+ - **diagnosticMessages.generated.json** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\typescript\lib\pl\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, user
+ - **diagnosticMessages.generated.json** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\typescript\lib\pt-br\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, user
+ - **diagnosticMessages.generated.json** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\typescript\lib\ru\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, user
+ - **diagnosticMessages.generated.json** (キーワード数: 8)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\typescript\lib\tr\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, plan, user
+ - **diagnosticMessages.generated.json** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\typescript\lib\zh-cn\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, user
+ - **diagnosticMessages.generated.json** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\typescript\lib\zh-tw\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, user
+ - **negative-tests.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\url-template\uritemplate-test\negative-tests.json
+  - マッチキーワード: user
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\wrap-ansi\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\wrap-ansi\node_modules\ansi-styles\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\wrap-ansi-cjs\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\wrap-ansi-cjs\node_modules\ansi-regex\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\wrap-ansi-cjs\node_modules\string-width\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\wrap-ansi-cjs\node_modules\strip-ansi\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\yn\package.json
+  - マッチキーワード: email
+ - **auto-fix-sim-blocks.yml** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai\.github\workflows\auto-fix-sim-blocks.yml
+  - マッチキーワード: email, user, MVP
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\call-bind-apply-helpers\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\call-bound\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\dunder-proto\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\es-define-property\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\es-errors\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\es-object-atoms\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\function-bind\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\get-intrinsic\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\get-proto\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\gopd\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\has-symbols\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\has-tostringtag\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\hasown\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **.travis.yml** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\isstream\.travis.yml
+  - マッチキーワード: email
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\math-intrinsics\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\object-inspect\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\qs\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\request\node_modules\qs\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\side-channel\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\side-channel-list\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\side-channel-map\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **FUNDING.yml** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\side-channel-weakmap\.github\FUNDING.yml
+  - マッチキーワード: community, user
+ - **API.html** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai\node_modules\bignumber.js\doc\API.html
+  - マッチキーワード: content, conversion
+ - **CRITICAL_SSOT.md** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\CRITICAL_SSOT.md
+  - マッチキーワード: strategy, 戦略, roadmap, revenue, 収益, GTM, go-to-market
+ - **MASTER_INDEX.md** (キーワード数: 10)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\MASTER_INDEX.md
+  - マッチキーワード: marketing, マーケティング, launch, strategy, plan, roadmap, signal, revenue, GTM, go-to-market
+ - **PROJECT_STATE_OF_TRUTH.md** (キーワード数: 8)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\PROJECT_STATE_OF_TRUTH.md
+  - マッチキーワード: ローンチ, telegram, twitter, signal, シグナル, user, ユーザー, 価格
+ - **QUICKSTART.md** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\QUICKSTART.md
+  - マッチキーワード: launch, ローンチ, discord, signal, 価格, MVP, whop
+ - **README.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\README.md
+  - マッチキーワード: launch, telegram, signal
+ - **SESSION_LOG_2025-11-04.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\SESSION_LOG_2025-11-04.md
+  - マッチキーワード: signal
+ - **BUSINESS_ROADMAP.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\business\BUSINESS_ROADMAP.md
+  - マッチキーワード: roadmap
+ - **REVENUE_PROJECTIONS.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\business\financials\REVENUE_PROJECTIONS.md
+  - マッチキーワード: revenue
+ - **1104-Behavioral-Design-Notes.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\1104-Behavioral-Design-Notes.md
+  - マッチキーワード: signal
+ - **1104-行動バイアス設計分析.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\1104-行動バイアス設計分析.md
+  - マッチキーワード: telegram, signal, シグナル, 価格
+ - **API_KEY_ACQUISITION.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\API_KEY_ACQUISITION.md
+  - マッチキーワード: acquisition, twitter, signal
+ - **CRITICAL_SSOT.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\CRITICAL_SSOT.md
+  - マッチキーワード: content, acquisition, telegram, signal
+ - **DEPLOYMENT.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\DEPLOYMENT.md
+  - マッチキーワード: telegram, signal, user
+ - **DEVELOPMENT_WORKFLOW_PERPLEXITY_INTEGRATION.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\DEVELOPMENT_WORKFLOW_PERPLEXITY_INTEGRATION.md
+  - マッチキーワード: signal, user, ユーザー, MVP
+ - **ENGINEERING_DOR_DOD.md** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\ENGINEERING_DOR_DOD.md
+  - マッチキーワード: メール, ローンチ, discord, signal, シグナル, MVP, whop
+ - **IMPLEMENTATION_GUIDE_PRICING.md** (キーワード数: 12)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\IMPLEMENTATION_GUIDE_PRICING.md
+  - マッチキーワード: content, メール, コンバージョン, リテンション, telegram, discord, コミュニティ, signal, シグナル, ユーザー, 価格, whop
+ - **IMPLEMENTATION_LOG.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\IMPLEMENTATION_LOG.md
+  - マッチキーワード: twitter, signal
+ - **INCIDENT_RUNBOOK.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\INCIDENT_RUNBOOK.md
+  - マッチキーワード: email, telegram
+ - **INTEGRATED_MARKETING_REVENUE_NOV3.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\INTEGRATED_MARKETING_REVENUE_NOV3.md
+  - マッチキーワード: telegram, signal, user
+ - **MARKETING_SCHEME_NOV3.md** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\MARKETING_SCHEME_NOV3.md
+  - マッチキーワード: マーケティング, ローンチ, ファネル, 計画, signal
+ - **MVP_KPI_TRACKING.md** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\MVP_KPI_TRACKING.md
+  - マッチキーワード: acquisition, retention, シグナル, revenue, MVP
+ - **MVP_PHASE_GATES.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\MVP_PHASE_GATES.md
+  - マッチキーワード: シグナル, MVP
+ - **PRICING_BREAKDOWN.md** (キーワード数: 6)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\PRICING_BREAKDOWN.md
+  - マッチキーワード: 顧客, 戦略, signal, シグナル, 価格, whop
+ - **PRICING_BREAKDOWN_FINAL.md** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\PRICING_BREAKDOWN_FINAL.md
+  - マッチキーワード: 戦略, signal, シグナル, 価格, whop
+ - **PROJECT_STATUS.md** (キーワード数: 9)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\PROJECT_STATUS.md
+  - マッチキーワード: launch, ローンチ, strategy, 計画, roadmap, twitter, signal, revenue, whop
+ - **PROVIDER_PHASES.md** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\PROVIDER_PHASES.md
+  - マッチキーワード: telegram, twitter, signal, 価格, MVP
+ - **PROVIDER_PHASES_FINAL.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\PROVIDER_PHASES_FINAL.md
+  - マッチキーワード: telegram, twitter, signal, MVP
+ - **PROVIDER_STRATEGY.md** (キーワード数: 6)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\PROVIDER_STRATEGY.md
+  - マッチキーワード: strategy, discord, signal, シグナル, 価格, whop
+ - **README-ops-shortcuts.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\README-ops-shortcuts.md
+  - マッチキーワード: signal
+ - **README.md** (キーワード数: 10)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\README.md
+  - マッチキーワード: launch, ローンチ, audience, strategy, plan, roadmap, signal, pricing, monetization, MVP
+ - **README_MASTER.md** (キーワード数: 11)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\README_MASTER.md
+  - マッチキーワード: launch, retention, strategy, 戦略, signal, シグナル, user, pricing, 価格, 収益, MVP
+ - **RELEASE.md** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\RELEASE.md
+  - マッチキーワード: launch, target, messaging, conversion, plan
+ - **REVENUE_SIMULATION_PDCA.md** (キーワード数: 30)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\REVENUE_SIMULATION_PDCA.md
+  - マッチキーワード: marketing, campaign, キャンペーン, SNS, email, メール, launch, target, ターゲット, messaging, conversion, acquisition, retention, リテンション, engagement, strategy, plan, 計画, discord, twitter, community, signal, user, ユーザー, pricing, revenue, 収益, MVP, whop, landing page
+ - **RUNBOOK.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\RUNBOOK.md
+  - マッチキーワード: launch, telegram
+ - **STRATEGY_COMPLETE_FINAL_NOV3.md** (キーワード数: 24)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\STRATEGY_COMPLETE_FINAL_NOV3.md
+  - マッチキーワード: marketing, campaign, SNS, launch, target, customer, retention, engagement, growth, strategy, 戦略, roadmap, telegram, discord, twitter, community, signal, シグナル, user, pricing, revenue, MVP, whop, landing page
+ - **STRATEGY_COMPLETE_FINAL_V1.1.md** (キーワード数: 19)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\STRATEGY_COMPLETE_FINAL_V1.1.md
+  - マッチキーワード: メール, launch, target, retention, リテンション, strategy, 戦略, telegram, twitter, コミュニティ, signal, シグナル, user, ユーザー, pricing, 価格, revenue, MVP, whop
+ - **STRATEGY_COMPLETE_NOV3.md** (キーワード数: 15)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\STRATEGY_COMPLETE_NOV3.md
+  - マッチキーワード: launch, target, customer, strategy, 戦略, telegram, twitter, signal, シグナル, user, pricing, 価格, revenue, MVP, whop
+ - **TIMELINE_DETAILED.md** (キーワード数: 19)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\TIMELINE_DETAILED.md
+  - マッチキーワード: SNS, メール, launch, ローンチ, メッセージング, 獲得, リテンション, telegram, discord, twitter, コミュニティ, signal, シグナル, user, ユーザー, 価格, MVP, whop, landing page
+ - **TIMELINE_DETAILED_FINAL.md** (キーワード数: 13)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\TIMELINE_DETAILED_FINAL.md
+  - マッチキーワード: email, launch, 獲得, retention, discord, twitter, signal, シグナル, user, ユーザー, revenue, MVP, whop
+ - **WORKFLOW.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\WORKFLOW.md
+  - マッチキーワード: telegram, signal
+ - **REVENUE_PROJECTIONS.md** (キーワード数: 12)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\business\financials\REVENUE_PROJECTIONS.md
+  - マッチキーワード: マーケティング, 獲得, strategy, 戦略, twitter, コミュニティ, ユーザー, 収益, GTM, go-to-market, whop, ランディングページ
+ - **DECISION_LOG.md** (キーワード数: 11)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\decisions\DECISION_LOG.md
+  - マッチキーワード: ローンチ, strategy, 戦略, telegram, discord, コミュニティ, signal, ユーザー, go-to-market, MVP, whop
+ - **DESIGN_v1102.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\design\DESIGN_v1102.md
+  - マッチキーワード: コンテンツ, signal
+ - **GO_TO_MARKET_STRATEGY.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\go-to-market\GO_TO_MARKET_STRATEGY.md
+  - マッチキーワード: strategy, go-to-market
+ - **LAUNCH_CHECKLIST.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\go-to-market\LAUNCH_CHECKLIST.md
+  - マッチキーワード: launch
+ - **PLATFORM_ROADMAP.md** (キーワード数: 18)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\go-to-market\PLATFORM_ROADMAP.md
+  - マッチキーワード: マーケティング, 広告, email, ローンチ, ターゲット, strategy, 戦略, 計画, ロードマップ, telegram, discord, twitter, コミュニティ, シグナル, ユーザー, revenue, MVP, whop
+ - **PLATFORM_SELECTION_MATRIX.md** (キーワード数: 12)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\go-to-market\PLATFORM_SELECTION_MATRIX.md
+  - マッチキーワード: ローンチ, strategy, 戦略, 計画, telegram, discord, コミュニティ, signal, シグナル, ユーザー, MVP, whop
+ - **PRICING_STRATEGY_MAPPING.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\proposals\PRICING_STRATEGY_MAPPING.md
+  - マッチキーワード: messaging, strategy, pricing
+ - **PROVIDER_STRATEGY_V2.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\proposals\PROVIDER_STRATEGY_V2.md
+  - マッチキーワード: strategy
+ - **sim-ai-copilot-spec.md** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\docs\specifications\sim-ai-copilot-spec.md
+  - マッチキーワード: engagement, 計画, telegram, twitter, signal, シグナル, 価格
+ - **MARKETING_STRATEGY.md** (キーワード数: 22)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\marketing\MARKETING_STRATEGY.md
+  - マッチキーワード: マーケティング, ローンチ, ターゲット, conversion, 獲得, engagement, strategy, 戦略, ロードマップ, telegram, discord, twitter, community, コミュニティ, シグナル, ユーザー, 価格, revenue, 収益, go-to-market, MVP, whop
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\@jridgewell\resolve-uri\README.md
+  - マッチキーワード: plan
+ - **README.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\@pkgjs\parseargs\README.md
+  - マッチキーワード: content, target, signal, user
+ - **readme.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\ansi-regex\readme.md
+  - マッチキーワード: content, brand, user
+ - **readme.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\ansi-styles\readme.md
+  - マッチキーワード: campaign, conversion
+ - **CHANGELOG.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\color-convert\CHANGELOG.md
+  - マッチキーワード: conversion
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\color-convert\README.md
+  - マッチキーワード: conversion
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\cross-spawn\README.md
+  - マッチキーワード: target, user
+ - **README.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\debug\README.md
+  - マッチキーワード: content, target, user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\emoji-regex\README.md
+  - マッチキーワード: twitter
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\fast-json-stable-stringify\README.md
+  - マッチキーワード: campaign, user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\foreground-child\README.md
+  - マッチキーワード: signal
+ - **README.md** (キーワード数: 4)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\glob\README.md
+  - マッチキーワード: content, plan, signal, user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\inherits\README.md
+  - マッチキーワード: plan
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\isexe\README.md
+  - マッチキーワード: user
+ - **README.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\make-error\README.md
+  - マッチキーワード: content, customer, community
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\minipass\README.md
+  - マッチキーワード: signal, user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\package-json-from-dist\README.md
+  - マッチキーワード: target
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\path-key\readme.md
+  - マッチキーワード: campaign
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\path-scurry\README.md
+  - マッチキーワード: target
+ - **README.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\path-scurry\node_modules\lru-cache\README.md
+  - マッチキーワード: signal, user
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\signal-exit\README.md
+  - マッチキーワード: signal
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\string-width\readme.md
+  - マッチキーワード: campaign
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\string-width-cjs\readme.md
+  - マッチキーワード: campaign
+ - **readme.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\string-width-cjs\node_modules\ansi-regex\readme.md
+  - マッチキーワード: campaign, content, brand
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\string-width-cjs\node_modules\emoji-regex\README.md
+  - マッチキーワード: twitter
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\string-width-cjs\node_modules\strip-ansi\readme.md
+  - マッチキーワード: campaign
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\strip-ansi-cjs\readme.md
+  - マッチキーワード: campaign
+ - **readme.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\strip-ansi-cjs\node_modules\ansi-regex\readme.md
+  - マッチキーワード: campaign, content, brand
+ - **README.md** (キーワード数: 6)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\typescript\README.md
+  - マッチキーワード: plan, roadmap, discord, twitter, community, user
+ - **SECURITY.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\typescript\SECURITY.md
+  - マッチキーワード: email
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\undici-types\README.md
+  - マッチキーワード: user
+ - **CHANGELOG.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\which\CHANGELOG.md
+  - マッチキーワード: user
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\wrap-ansi\readme.md
+  - マッチキーワード: campaign
+ - **readme.md** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\wrap-ansi\node_modules\ansi-styles\readme.md
+  - マッチキーワード: campaign, conversion
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\wrap-ansi-cjs\readme.md
+  - マッチキーワード: campaign
+ - **readme.md** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\wrap-ansi-cjs\node_modules\ansi-regex\readme.md
+  - マッチキーワード: campaign, content, brand
+ - **README.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\wrap-ansi-cjs\node_modules\emoji-regex\README.md
+  - マッチキーワード: twitter
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\wrap-ansi-cjs\node_modules\string-width\readme.md
+  - マッチキーワード: campaign
+ - **readme.md** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\wrap-ansi-cjs\node_modules\strip-ansi\readme.md
+  - マッチキーワード: campaign
+ - **project-structure.txt** (キーワード数: 9)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\project-structure.txt
+  - マッチキーワード: marketing, promotion, content, conversion, telegram, twitter, signal, user, revenue
+ - **LICENSE.txt** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\typescript\LICENSE.txt
+  - マッチキーワード: content, conversion
+ - **ThirdPartyNoticeText.txt** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\typescript\ThirdPartyNoticeText.txt
+  - マッチキーワード: advertising, content, target, community, user
+ - **package-lock.json** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\package-lock.json
+  - マッチキーワード: SEO, content, signal, GTM, MVP
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\package.json
+  - マッチキーワード: signal
+ - **tsconfig.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\tsconfig.json
+  - マッチキーワード: target
+ - **.package-lock.json** (キーワード数: 5)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\.package-lock.json
+  - マッチキーワード: SEO, content, signal, GTM, MVP
+ - **package.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\@types\node\package.json
+  - マッチキーワード: content, user
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\ansi-regex\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\ansi-styles\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\balanced-match\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\brace-expansion\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\color-convert\package.json
+  - マッチキーワード: conversion
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\debug\package.json
+  - マッチキーワード: launch
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\fast-json-stable-stringify\package.json
+  - マッチキーワード: email
+ - **test.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\fast-json-stable-stringify\benchmark\test.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\foreground-child\package.json
+  - マッチキーワード: signal
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\glob\package.json
+  - マッチキーワード: content
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\is-fullwidth-code-point\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\make-error\package.json
+  - マッチキーワード: community
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\ms\package.json
+  - マッチキーワード: conversion
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\path-key\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\shebang-command\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\shebang-regex\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\signal-exit\package.json
+  - マッチキーワード: signal
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\string-width\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\string-width-cjs\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\string-width-cjs\node_modules\ansi-regex\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\string-width-cjs\node_modules\strip-ansi\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\strip-ansi\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\strip-ansi-cjs\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\strip-ansi-cjs\node_modules\ansi-regex\package.json
+  - マッチキーワード: email
+ - **typesMap.json** (キーワード数: 2)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\typescript\lib\typesMap.json
+  - マッチキーワード: email, signal
+ - **diagnosticMessages.generated.json** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\typescript\lib\cs\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, user
+ - **diagnosticMessages.generated.json** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\typescript\lib\de\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, user
+ - **diagnosticMessages.generated.json** (キーワード数: 8)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\typescript\lib\es\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, plan, user
+ - **diagnosticMessages.generated.json** (キーワード数: 8)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\typescript\lib\fr\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, signal, user
+ - **diagnosticMessages.generated.json** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\typescript\lib\it\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, user
+ - **diagnosticMessages.generated.json** (キーワード数: 11)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\typescript\lib\ja\diagnosticMessages.generated.json
+  - マッチキーワード: content, コンテンツ, target, ターゲット, messaging, conversion, acquisition, strategy, 戦略, user, ユーザー
+ - **diagnosticMessages.generated.json** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\typescript\lib\ko\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, user
+ - **diagnosticMessages.generated.json** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\typescript\lib\pl\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, user
+ - **diagnosticMessages.generated.json** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\typescript\lib\pt-br\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, user
+ - **diagnosticMessages.generated.json** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\typescript\lib\ru\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, user
+ - **diagnosticMessages.generated.json** (キーワード数: 8)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\typescript\lib\tr\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, plan, user
+ - **diagnosticMessages.generated.json** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\typescript\lib\zh-cn\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, user
+ - **diagnosticMessages.generated.json** (キーワード数: 7)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\typescript\lib\zh-tw\diagnosticMessages.generated.json
+  - マッチキーワード: content, target, messaging, conversion, acquisition, strategy, user
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\wrap-ansi\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\wrap-ansi\node_modules\ansi-styles\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\wrap-ansi-cjs\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\wrap-ansi-cjs\node_modules\ansi-regex\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\wrap-ansi-cjs\node_modules\string-width\package.json
+  - マッチキーワード: email
+ - **package.json** (キーワード数: 1)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\node_modules\wrap-ansi-cjs\node_modules\strip-ansi\package.json
+  - マッチキーワード: email
+ - **auto-fix-sim-blocks.yml** (キーワード数: 3)
+  - パス: C:\Users\USER\crypto-signal-ai_remote\.github\workflows\auto-fix-sim-blocks.yml
+  - マッチキーワード: email, user, MVP
+
+
+## 次のアクションステップ
+1. 各カテゴリフォルダ内のファイルをレビュー
+2. 重複コンテンツの統合
+3. 不足している施策エリアの特定
+4. 優先度付けとロードマップ更新
+
+---
+*このレポートは自動生成されました*

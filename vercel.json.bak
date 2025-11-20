@@ -1,0 +1,11 @@
+{
+  "cron": {
+    "jobs": [
+      {
+        "path": "/api/generate-signal",
+        "schedule": "0 * * * *", // –ˆŽž0•ª
+        "enabled": true
+      }
+    ]
+  }
+}

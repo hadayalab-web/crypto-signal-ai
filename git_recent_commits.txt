@@ -1,0 +1,10 @@
+926bbc0 HadayaLab 2025-11-12 Add MessageUI_Design.md with Telegram markdown examples and UI strategy (2025-11-12)
+57543ce HadayaLab 2025-11-12 Update 02_SignalGenerationAlgorithm.md with detailed multi-source signal logic (2025-11-12)
+340e127 HadayaLab 2025-11-12 Update 01_DevelopmentEnvironment.md with comprehensive tech stack documentation (2025-11-12)
+f1debfd HadayaLab 2025-11-12 Update 11_Thinkific_Integration.md with comprehensive HeyGen integration strategy (2025-11-12)
+1917656 HadayaLab 2025-11-12 Update 09_SalesPlatforms.md with detailed strategy and KPIs (2025-11-12)
+37075f2 HadayaLab 2025-11-12 Add structured documentation with 11 sections (2025-11-12)
+eacbbfb HadayaLab 2025-11-11 Merge branch 'main' of https://github.com/hadayalab-web/crypto-signal-ai
+45b5e7d HadayaLab 2025-11-11 Add permanent master document for CryptoSignal AI project (2025-11-11)
+5bfa748 Your Name 2025-11-11 chore: resolve merge conflicts after main branch pull
+5e9f10f Your Name 2025-11-11 docs: Add troubleshooting log, update README. All system pipelines stable as of 2025-11-11.

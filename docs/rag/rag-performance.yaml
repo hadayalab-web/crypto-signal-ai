@@ -1,0 +1,12 @@
+﻿retrieval:
+  mode: hybrid
+  top_k: 16
+  hyde: true
+rerank:
+  model: monoT5
+  top_k: 8
+packing:
+  order: reverse
+summarize:
+  style: evidence-rich
+  cite_sources: true

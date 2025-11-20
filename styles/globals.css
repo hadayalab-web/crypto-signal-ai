@@ -1,0 +1,475 @@
+﻿/* global styles */
+/* ===== Global ===== */
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+  background-color: #020617; /* same as page */
+  color: #f9fafb;
+}
+
+main {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 40px 20px 80px;
+  line-height: 1.6;
+}
+
+section + section {
+  margin-top: 80px;
+}
+
+@media (max-width: 768px) {
+  main {
+    padding: 24px 16px 56px;
+  }
+
+  section + section {
+    margin-top: 48px;
+  }
+}
+
+/* ===== HERO ===== */
+
+.hero {
+  position: relative;
+  overflow: hidden;
+  border-radius: 16px;
+  min-height: 360px;
+}
+
+.hero__bg-video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.45);
+}
+
+.hero__content {
+  position: relative;
+  z-index: 1;
+  padding: 40px 32px 56px;
+  max-width: 620px;
+}
+
+.hero__logo {
+  width: 260px;
+  height: auto;
+  margin-bottom: 24px;
+}
+
+.hero__headline {
+  font-size: 40px;
+  line-height: 1.15;
+  margin: 0 0 16px;
+}
+
+.hero__lead {
+  font-size: 15px;
+  max-width: 540px;
+  margin: 0 0 12px;
+  color: #e5e7eb;
+}
+
+.hero__sub {
+  font-size: 13px;
+  max-width: 540px;
+  margin: 0;
+  color: #9ca3af;
+}
+
+@media (max-width: 768px) {
+  .hero {
+    min-height: 320px;
+  }
+
+  .hero__content {
+    padding: 24px 18px 32px;
+  }
+
+  .hero__logo {
+    width: 200px;
+    margin-bottom: 16px;
+  }
+
+  .hero__headline {
+    font-size: 28px;
+  }
+
+  .hero__lead {
+    font-size: 14px;
+  }
+
+  .hero__sub {
+    font-size: 12px;
+  }
+}
+
+/* ===== VSL ===== */
+
+.vsl {
+  max-width: 720px;
+}
+
+.vsl__heading {
+  font-size: 22px;
+  margin: 0 0 12px;
+}
+
+.vsl__lead {
+  font-size: 15px;
+  color: #e5e7eb;
+  margin: 0 0 8px;
+}
+
+.vsl__sub {
+  font-size: 13px;
+  color: #9ca3af;
+  margin: 0 0 20px;
+}
+
+.vsl__player {
+  width: 100%;
+  max-width: 420px;
+  aspect-ratio: 9 / 16;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 18px 40px rgba(15, 23, 42, 0.9);
+}
+
+.vsl__player iframe {
+  border: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* ===== PLAN (Offer) ===== */
+
+.plan {
+  background: radial-gradient(circle at top left, #0b1120 0, #020617 55%);
+  border-radius: 16px;
+  padding: 32px 28px;
+  border: 1px solid rgba(148, 163, 184, 0.25);
+}
+
+.plan__inner {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.plan__title {
+  font-size: 22px;
+  margin: 0 0 4px;
+}
+
+.plan__subtitle {
+  font-size: 13px;
+  color: #9ca3af;
+  margin: 0;
+}
+
+.plan__body {
+  display: grid;
+  grid-template-columns: minmax(0, 260px) minmax(0, 1fr);
+  gap: 32px;
+  align-items: flex-start;
+}
+
+.plan__price-block {
+  background: rgba(15, 23, 42, 0.9);
+  border-radius: 12px;
+  padding: 20px 18px;
+  border: 1px solid rgba(148, 163, 184, 0.45);
+}
+
+.plan__label {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #38bdf8;
+  margin: 0 0 8px;
+}
+
+.plan__price {
+  margin: 0 0 8px;
+}
+
+.plan__price-main {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.plan__price-note {
+  font-size: 14px;
+  color: #9ca3af;
+}
+
+.plan__guarantee {
+  font-size: 12px;
+  color: #e5e7eb;
+}
+
+.plan__bullets {
+  list-style: disc;
+  padding-left: 20px;
+  margin: 0 0 20px;
+}
+
+.plan__bullet {
+  font-size: 13px;
+  color: #e5e7eb;
+  margin-bottom: 8px;
+}
+
+.plan__cta {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.plan__button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 22px;
+  border-radius: 9999px;
+  background: linear-gradient(135deg, #38bdf8, #0ea5e9);
+  color: #0b1120;
+  font-weight: 600;
+  font-size: 14px;
+  text-decoration: none;
+  box-shadow: 0 14px 30px rgba(8, 47, 73, 0.7);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+}
+
+.plan__button:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.05);
+  box-shadow: 0 18px 40px rgba(8, 47, 73, 0.9);
+}
+
+.plan__cta-note {
+  font-size: 12px;
+  color: #9ca3af;
+  max-width: 420px;
+}
+
+@media (max-width: 900px) {
+  .plan {
+    padding: 24px 20px;
+  }
+
+  .plan__body {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .plan__price-block {
+    order: -1;
+  }
+}
+
+/* ===== FAQ ===== */
+
+.faq__title {
+  font-size: 20px;
+  margin: 0 0 16px;
+}
+
+.faq__item + .faq__item {
+  margin-top: 16px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(30, 64, 175, 0.5);
+}
+
+.faq__question {
+  font-size: 15px;
+  margin: 0 0 4px;
+}
+
+.faq__answer {
+  font-size: 13px;
+  color: #e5e7eb;
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .faq__title {
+    font-size: 18px;
+  }
+
+  .faq__question {
+    font-size: 14px;
+  }
+
+  .faq__answer {
+    font-size: 12px;
+  }
+}
+
+/* 本文の行間を少しだけ広げる （任意） */
+body {
+  line-height: 1.7;
+}
+
+/* FAQ 全体の最大幅を本体カードと揃える （任意） */
+.faq {
+  max-width: 1120px;
+  margin: 64px auto 0;
+  padding: 0 20px 40px;
+}
+
+/* HERO actions */
+
+.hero__actions {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.hero__button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 24px;
+  border-radius: 9999px;
+  background: linear-gradient(135deg, #f97316, #ea580c);
+  color: #0b1120;
+  font-weight: 700;
+  font-size: 14px;
+  text-decoration: none;
+  box-shadow: 0 16px 32px rgba(124, 45, 18, 0.75);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+}
+
+.hero__button:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.05);
+  box-shadow: 0 20px 40px rgba(124, 45, 18, 0.95);
+}
+
+.hero__meta {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 12px;
+}
+
+.hero__badge {
+  color: #f97316;
+}
+
+.hero__trust {
+  color: #9ca3af;
+}
+
+@media (max-width: 768px) {
+  .hero__actions {
+    margin-top: 16px;
+  }
+}
+
+/* LEGAL footer */
+
+.legal {
+  margin-top: 64px;
+  padding-top: 24px;
+  border-top: 1px solid rgba(15, 23, 42, 0.8);
+}
+
+.legal__text {
+  font-size: 11px;
+  color: #9ca3af;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+/* HERO 2-column layout */
+
+.hero__layout {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  gap: 32px;
+  align-items: flex-start;
+}
+
+.hero__copy {
+  flex: 1.3;
+}
+
+.hero__vsl-card {
+  flex: 1;
+  max-width: 420px;
+  background: rgba(15, 23, 42, 0.95);
+  border-radius: 16px;
+  padding: 20px 18px 18px;
+  border: 1px solid rgba(148, 163, 184, 0.5);
+  box-shadow: 0 18px 40px rgba(15, 23, 42, 0.9);
+}
+
+.hero__vsl-title {
+  font-size: 18px;
+  margin: 0 0 8px;
+}
+
+.hero__vsl-copy {
+  font-size: 13px;
+  color: #e5e7eb;
+  margin: 0 0 12px;
+}
+
+.hero__vsl-player {
+  border-radius: 12px;
+  overflow: hidden;
+  aspect-ratio: 16 / 9;
+  background: #020617;
+}
+
+.hero__vsl-player iframe {
+  border: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.hero__vsl-note {
+  font-size: 11px;
+  color: #9ca3af;
+  margin: 10px 0 0;
+}
+
+/* 既存 hero__actions / hero__button などはそのまま利用 */
+
+@media (max-width: 900px) {
+  .hero__layout {
+    flex-direction: column;
+  }
+
+  .hero__vsl-card {
+    max-width: 100%;
+  }
+}
+
+.hero__vsl-title {
+  font-size: 18px;
+  margin: 0 0 8px;
+  letter-spacing: -0.02em; /* ここを追加：字間を少しだけ詰める */
+}
+
+.plan__price-block {
+  background: rgba(15, 23, 42, 0.9);
+  border-radius: 12px;
+  padding: 20px 18px;
+  border: 1px solid rgba(148, 163, 184, 0.45);
+  box-shadow: 0 20px 40px rgba(15, 23, 42, 0.95); /* 影を強める */
+}
+
+.plan__mini-trust {
+  font-size: 12px;
+  color: #bbf7d0; /* やや明るいグリーンで安心感 */
+  margin: 4px 0 0;
+}

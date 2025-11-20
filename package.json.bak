@@ -1,0 +1,33 @@
+<<<<<<< HEAD
+{"name":"crypto-signal-ai","version":"1.0.0","description":"CryptoSignal AI MVP","main":"index.js","scripts":{"test":"echo Error && exit 1"},"keywords":["crypto","ai"],"author":"","license":"MIT","dependencies":{"axios":"^1.13.2"}}
+=======
+{
+  "name": "crypto-signal-ai",
+  "version": "1.0.0",
+  "description": "CryptoSignal AI MVP",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo Error && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "ai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.0.0",
+    "node-fetch": "^2.7.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "24.10.0",
+    "@types/react": "19.2.2",
+    "typescript": "5.9.3"
+  }
+}
+>>>>>>> 3549484e75b8c1896c5e61bfc2db1df432e47b97

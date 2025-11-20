@@ -1,0 +1,8 @@
+# Large media files - use external hosting
+public/assets/video/*.mov
+public/assets/video/*.mp4
+*.mov
+*.mp4
+
+node_modules/
+public/assets/video/*.mov

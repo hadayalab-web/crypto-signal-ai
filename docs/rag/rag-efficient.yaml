@@ -1,0 +1,10 @@
+﻿retrieval:
+  mode: hybrid
+  top_k: 8
+  filters: []
+rerank:
+  model: light
+  top_k: 5
+summarize:
+  style: concise
+  cite_sources: true
