@@ -1,0 +1,22 @@
+import { generateMarketUpdate } from './services/grokService.js';
+import TelegramAdapter from './services/delivery/telegram.js';
+
+export default async function handler(req, res) {
+    try {
+        const lang = req.query.lang || 'en';
+        const msg = await generateMarketUpdate({ signal: "LONG_TEST" }, lang);
+        
+        const telegram = new TelegramAdapter(process.env.TELEGRAM_BOT_TOKEN);
+        // CHAT_ID 繧貞━蜈井ｽｿ逕ｨ
+        const chatId = process.env.TELEGRAM_CHANNEL_ID || process.env.TELEGRAM_CHAT_ID;
+        
+        if (chatId) {
+            await telegram.send(msg, chatId);
+        }
+        
+        res.status(200).json({ status: "OK", msg: msg.substring(0, 50) });
+    } catch (e) {
+        console.error(e);
+        res.status(500).json({ error: e.message });
+    }
+}

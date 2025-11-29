@@ -1,0 +1,24 @@
+﻿{
+  "hall_of_fame": [
+    { "case_id": 1, "era": "Early Crisis", "event": "Mt. Gox Collapse", "date": "2014-02-25", "signal": "STRONG_BUY", "roi": "+600%", "lesson": "Extreme panic = opportunity" },
+    { "case_id": 2, "era": "Early Crisis", "event": "China ICO Ban", "date": "2017-09-04", "signal": "SHORT → LONG", "roi": "+150%", "lesson": "Regulation FUD is transient" },
+    { "case_id": 3, "era": "Peak Bubble", "event": "Bitcoin 2017 ATH", "date": "2017-12-17", "signal": "STRONG_SELL", "roi": "-70%", "lesson": "Extreme Greed = sell signal" },
+    { "case_id": 4, "era": "Futures Era", "event": "CME Futures Launch", "date": "2018-01-17", "signal": "SHORT", "roi": "+200%", "lesson": "Institutions short tops" },
+    { "case_id": 5, "era": "Bear Market", "event": "Bear Market Bottom", "date": "2018-11-15", "signal": "LONG", "roi": "+1100%", "lesson": "Max Fear = Max Opportunity" },
+    { "case_id": 6, "era": "Halving Era", "event": "COVID Crash Reversal", "date": "2020-05-11", "signal": "LONG", "roi": "+370%", "lesson": "Halving + Stimulus = Rocket" },
+    { "case_id": 7, "era": "Institutional Era", "event": "PayPal/Tesla Boom", "date": "2020-10-01", "signal": "STRONG_LONG", "roi": "+500%", "lesson": "Corporate adoption is sticky" },
+    { "case_id": 8, "era": "Regulation Era", "event": "China Mining Ban", "date": "2021-05-19", "signal": "SHORT", "roi": "+120%", "lesson": "Hashrate drop is temporary" },
+    { "case_id": 9, "era": "Contagion", "event": "FTX Collapse", "date": "2022-11-09", "signal": "SHORT → LONG", "roi": "+450%", "lesson": "Black swans represent value" },
+    { "case_id": 10, "era": "Adoption", "event": "SVB Banking Crisis", "date": "2023-03-13", "signal": "LONG", "roi": "+45%", "lesson": "Bitcoin is a safe haven" },
+    { "case_id": 11, "era": "Recovery", "event": "FTX Recovery Rally", "date": "2023-11-15", "signal": "LONG", "roi": "+55%", "lesson": "Sentiment mean-reverts" },
+    { "case_id": 12, "era": "ETF Anticipation", "event": "Spot ETF Rumor", "date": "2024-01-10", "signal": "STRONG_LONG", "roi": "+82%", "lesson": "Buy the rumor, hold the news" },
+    { "case_id": 13, "era": "ETF Era", "event": "ETF Approval", "date": "2024-01-11", "signal": "STRONG_LONG", "roi": "+82%", "lesson": "Institutional flows don't lie" },
+    { "case_id": 14, "era": "Supply Shock", "event": "2024 Halving", "date": "2024-04-19", "signal": "LONG", "roi": "+15%", "lesson": "Supply shock is slow burn" },
+    { "case_id": 15, "era": "Distribution", "event": "Mt. Gox Repayment FUD", "date": "2024-05-31", "signal": "SHORT", "roi": "-8%", "lesson": "Market overreacts to supply fear" },
+    { "case_id": 16, "era": "Resolution", "event": "Mt. Gox Resolution", "date": "2024-07-15", "signal": "LONG", "roi": "+20%", "lesson": "FUD resolution is bullish" },
+    { "case_id": 17, "era": "Liquidity", "event": "Yen Carry Unwind", "date": "2024-08-05", "signal": "SHORT", "roi": "-13%", "lesson": "Forced liquidation is not fundamental" },
+    { "case_id": 18, "era": "Macro", "event": "Fed Rate Cut", "date": "2024-09-18", "signal": "LONG", "roi": "+18%", "lesson": "Easy money lifts all boats" },
+    { "case_id": 19, "era": "Political", "event": "Trump Victory", "date": "2024-11-05", "signal": "STRONG_LONG", "roi": "+35%", "lesson": "Political tailwinds matter" },
+    { "case_id": 20, "era": "Euphoria", "event": "ATH Euphoria Phase", "date": "2025-01-01", "signal": "LONG (Caution)", "roi": "+55%", "lesson": "Euphoria needs risk management" }
+  ]
+}

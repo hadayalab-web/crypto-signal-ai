@@ -1,0 +1,17 @@
+﻿[
+  {
+    "id": 12, "title": "Pre-Crash Short", "date": "2025-11-25",
+    "verdict": "SHORT", "result": "✅ +125% ROI",
+    "reasoning": "Detected Greed 90 + Whale Dumps.", "icon": "📉"
+  },
+  {
+    "id": 11, "title": "Bottom Fishing", "date": "2025-11-23",
+    "verdict": "LONG", "result": "✅ +80% ROI",
+    "reasoning": "Sniped Fear Index 12 (Extreme).", "icon": "📈"
+  },
+  {
+    "id": 10, "title": "Q4 2025 Whale Peak", "date": "2025-10-10",
+    "verdict": "LONG", "result": "✅ Dip Buying Detected",
+    "reasoning": "Strong ETF inflows of +$800M signal institutional accumulation.", "icon": "🐋"
+  }
+]

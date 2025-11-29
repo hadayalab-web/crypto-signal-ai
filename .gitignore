@@ -1,0 +1,11 @@
+.vercel
+
+.env
+.env.local
+.env_old_backup
+
+.env
+.env.local
+.env_old_backup
+node_modules
+.DS_Store
